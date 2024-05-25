@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahdi-500
 - 👀 I’m interested in Back-end developing (Django)
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
