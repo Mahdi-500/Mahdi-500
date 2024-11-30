@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahdi
 - 👀 I’m interested in Back-end development (Django)
-- 🌱 I’m currently learning Django and planing to learn Docker and Django Rest
+- 🌱 I’m currently learning Django and plan to learn Docker and Django Rest
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "mahdi.khaligh82@gmail.com"
 
